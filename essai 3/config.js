@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"","author":"","fileName":"essai.pdf","bounds":[[736,2164]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
